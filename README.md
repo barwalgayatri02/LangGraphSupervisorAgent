@@ -1,6 +1,8 @@
 # LangGraph Supervisor Agent
 Supervisor Agent using LangGraph 
 
+<img width="818" height="352" alt="image" src="https://github.com/user-attachments/assets/301e181e-95ef-4f0f-9b96-2fc4c839fab0" />
+
 WARNING:langchain_experimental.utilities.python:Python REPL can execute arbitrary code. Use with caution.
 
 ================================ Human Message =================================
